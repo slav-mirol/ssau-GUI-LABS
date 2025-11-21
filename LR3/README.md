@@ -50,22 +50,36 @@ python main.py
 1. Запустите `main.py`
    
  ![Начальное окно](screenshots/start.PNG)
-3. В меню `Menu` выберите `Set connection` и укажите файл `.db` или `.sqlite`
+2. В меню `Menu` выберите `Set connection` и укажите файл `.db` или `.sqlite`
+
 ![Соединение](screenshots/connect.png)
+
 ![Выбор БД](screenshots/connect-2.PNG)
+
 ![Выбор БД](screenshots/success.PNG)
-4. Вкладка `Tab1` автоматически заполнится структурой БД (`SELECT * FROM sqlite_master`)
+
+3. Вкладка `Tab1` автоматически заполнится структурой БД (`SELECT * FROM sqlite_master`)
+
 ![tab1](screenshots/tab1.PNG)
-5. Выберите колонку из выпадающего списка — данные появятся в `Tab3`
+
+4. Выберите колонку из выпадающего списка — данные появятся в `Tab3`
+
 ![tab3](screenshots/tab3.PNG)
-6. Нажмите кнопки `b1`, `b2`, `b3` для выполнения соответствующих запросов и отображения результатов в `Tab2`, `Tab4`, `Tab5`
+
+5. Нажмите кнопки `b1`, `b2`, `b3` для выполнения соответствующих запросов и отображения результатов в `Tab2`, `Tab4`, `Tab5`
 ![tab2](screenshots/tab2.PNG)
+
 ![tab4](screenshots/tab4.PNG)
+
 ![tab5](screenshots/tab5.PNG)
 
-7. Используйте `Close connection` для отключения и очистки всех вкладок
+6. Используйте `Close connection` для отключения и очистки всех вкладок
+
 ![close](screenshots/close.png)
+
 ![disconnect](screenshots/disconnect.PNG)
+
+После этого приложение вернется в начальное состояние
 
 ## Используемые компоненты
 

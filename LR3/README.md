@@ -50,7 +50,7 @@ python main.py
 1. Запустите `main.py`
  ![Начальное окно](screenshots/start.PNG)
 2. В меню `Menu` выберите `Set connection` и укажите файл `.db` или `.sqlite`
-![Соединение](screenshots/connect.PNG)
+![Соединение](screenshots/connect.png)
 ![Выбор БД](screenshots/connect-2.PNG)
 ![Выбор БД](screenshots/success.PNG)
 3. Вкладка `Tab1` автоматически заполнится структурой БД (`SELECT * FROM sqlite_master`)
@@ -63,7 +63,7 @@ python main.py
 ![tab5](screenshots/tab5.PNG)
 
 6. Используйте `Close connection` для отключения и очистки всех вкладок
-![close](screenshots/close.PNG)
+![close](screenshots/close.png)
 ![disconnect](screenshots/disconnect.PNG)
 
 ## Используемые компоненты

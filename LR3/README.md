@@ -50,6 +50,7 @@ python main.py
 1. Запустите `main.py`
    
  ![Начальное окно](screenshots/start.PNG)
+ 
 2. В меню `Menu` выберите `Set connection` и укажите файл `.db` или `.sqlite`
 
 ![Соединение](screenshots/connect.png)
